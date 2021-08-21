@@ -1,0 +1,1 @@
+int a=10;   //defination actual memory
